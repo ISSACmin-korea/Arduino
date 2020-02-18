@@ -16,5 +16,5 @@
       (1) 식물 자동 급수기 (Plant Automatic Watering Machine)
            - 기간 : 2020.2.12 ~ 2020.2.17
            - 기타 : 개발완료 / 실사용 진행 중(2020.2.28일 재배완료 예정)
-           ![waterPumpProject](https://user-images.githubusercontent.com/61149130/74702393-42820c80-524d-11ea-8742-6a685d897230.png)
+             https://github.com/ISSACmin-korea/Arduino/issues/1#issue-566628592
 
